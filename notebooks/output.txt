@@ -35,154 +35,136 @@
 33           diagnosis_seborrheic keratosis   
 34                      management_excision   
 35                 pigment_network_atypical   
-36            diagnosis_reed or spitz nevus   
-37                                 case_num   
-38                        streaks_irregular   
-39              dots_and_globules_irregular   
-40    vascular_structures_within regression   
-41        regression_structures_white areas   
-42   diagnosis_melanoma (less than 0.76 mm)   
-43                        streaks_irregular   
-44                dots_and_globules_regular   
-45            management_clinical follow up   
-46                dots_and_globules_regular   
-47                    diagnosis_clark nevus   
-48      diagnosis_melanoma (0.76 to 1.5 mm)   
-49                        seven_point_score   
-50             diagnosis_melanoma (in situ)   
-51                 pigment_network_atypical   
-52                        seven_point_score   
-53                                 case_num   
-54                  pigment_network_typical   
-55            management_clinical follow up   
-56            diagnosis_reed or spitz nevus   
+36                        streaks_irregular   
+37              dots_and_globules_irregular   
+38        regression_structures_white areas   
+39    vascular_structures_within regression   
+40                        streaks_irregular   
+41   diagnosis_melanoma (less than 0.76 mm)   
+42            management_clinical follow up   
+43                dots_and_globules_regular   
+44                    diagnosis_clark nevus   
+45                dots_and_globules_regular   
+46      diagnosis_melanoma (0.76 to 1.5 mm)   
+47                        seven_point_score   
+48                 pigment_network_atypical   
+49             diagnosis_melanoma (in situ)   
+50            management_clinical follow up   
+51                  pigment_network_typical   
+52                          streaks_regular   
+53            diagnosis_reed or spitz nevus   
+54     vascular_structures_linear irregular   
+55    diagnosis_melanoma (more than 1.5 mm)   
+56                           location_acral   
 57                          streaks_regular   
-58    diagnosis_melanoma (more than 1.5 mm)   
-59     vascular_structures_linear irregular   
-60                          streaks_regular   
-61                           location_acral   
-62               vascular_structures_dotted   
-63                        seven_point_score   
-64                                 case_num   
-65           diagnosis_seborrheic keratosis   
-66                diagnosis_vascular lesion   
-67        management_no further examination   
-68                  pigment_network_typical   
-69                           streaks_absent   
-70                 pigment_network_atypical   
+58                        seven_point_score   
+59               vascular_structures_dotted   
+60                diagnosis_vascular lesion   
+61        management_no further examination   
+62                  pigment_network_typical   
+63                           streaks_absent   
+64                 pigment_network_atypical   
+65   diagnosis_melanoma (less than 0.76 mm)   
+66                        seven_point_score   
+67       regression_structures_combinations   
+68            management_clinical follow up   
+69                           elevation_flat   
+70              dots_and_globules_irregular   
 71   diagnosis_melanoma (less than 0.76 mm)   
-72                        seven_point_score   
-73       regression_structures_combinations   
-74            management_clinical follow up   
-75                           elevation_flat   
+72           pigmentation_diffuse irregular   
+73                      management_excision   
+74        management_no further examination   
+75                 diagnosis_dermatofibroma   
 76              dots_and_globules_irregular   
-77   diagnosis_melanoma (less than 0.76 mm)   
+77           pigmentation_diffuse irregular   
 78           pigmentation_diffuse irregular   
-79                      management_excision   
-80                 diagnosis_dermatofibroma   
-81        management_no further examination   
-82                diagnosis_vascular lesion   
-83                                 case_num   
-84              dots_and_globules_irregular   
-85           pigmentation_diffuse irregular   
-86           pigmentation_diffuse irregular   
-87                        streaks_irregular   
-88              dots_and_globules_irregular   
-89                 pigment_network_atypical   
-90   diagnosis_melanoma (less than 0.76 mm)   
-91       regression_structures_combinations   
-92        management_no further examination   
-93                   diagnosis_dermal nevus   
-94   diagnosis_melanoma (less than 0.76 mm)   
-95                      management_excision   
-96                dots_and_globules_regular   
-97                  pigment_network_typical   
-98                 dots_and_globules_absent   
-99                     diagnosis_blue nevus   
-100                  pigment_network_absent   
-101                       elevation_nodular   
-102                  pigment_network_absent   
-103                          location_acral   
-104   diagnosis_melanoma (more than 1.5 mm)   
-105                       seven_point_score   
-106     diagnosis_melanoma (0.76 to 1.5 mm)   
-107             dots_and_globules_irregular   
-108              vascular_structures_dotted   
-109     diagnosis_melanoma (0.76 to 1.5 mm)   
-110                dots_and_globules_absent   
-111               diagnosis_vascular lesion   
-112                 pigment_network_typical   
-113                          elevation_flat   
-114          level_of_diagnostic_difficulty   
-115           management_clinical follow up   
-116            pigmentation_diffuse regular   
-117                dots_and_globules_absent   
-118       management_no further examination   
-119                          streaks_absent   
-120    vascular_structures_linear irregular   
-121                       seven_point_score   
-122       management_no further examination   
-123                dots_and_globules_absent   
-124                     management_excision   
-125      regression_structures_combinations   
-126      regression_structures_combinations   
-127             dots_and_globules_irregular   
-128                   diagnosis_clark nevus   
-129                     pigmentation_absent   
-130               vascular_structures_comma   
-131                  diagnosis_dermal nevus   
-132                                case_num   
-133       management_no further examination   
-134   vascular_structures_within regression   
-135      regression_structures_combinations   
-136                      location_head neck   
-137          diagnosis_basal cell carcinoma   
-138          diagnosis_basal cell carcinoma   
-139                  pigment_network_absent   
-140           management_clinical follow up   
-141            regression_structures_absent   
-142                       streaks_irregular   
-143                                case_num   
-144                       seven_point_score   
-145            diagnosis_melanoma (in situ)   
-146                       diagnosis_lentigo   
-147       management_no further examination   
-148                          elevation_flat   
-149              vascular_structures_absent   
-150                    location_lower limbs   
-151           diagnosis_reed or spitz nevus   
-152          pigmentation_diffuse irregular   
-153                                case_num   
-154                         streaks_regular   
-155                     diagnosis_melanosis   
-156            diagnosis_melanoma (in situ)   
-157                     management_excision   
-158                                case_num   
-159  diagnosis_melanoma (less than 0.76 mm)   
-160     diagnosis_melanoma (0.76 to 1.5 mm)   
-161                                case_num   
-162             vascular_structures_hairpin   
-163          diagnosis_seborrheic keratosis   
-164                       elevation_nodular   
-165     diagnosis_melanoma (0.76 to 1.5 mm)   
-166       management_no further examination   
-167                  pigment_network_absent   
-168                   diagnosis_clark nevus   
-169              vascular_structures_absent   
-170                      location_head neck   
-171                     diagnosis_melanosis   
-172                          streaks_absent   
-173               dots_and_globules_regular   
-174            pigmentation_diffuse regular   
-175                    diagnosis_blue nevus   
-176                  diagnosis_dermal nevus   
-177                       elevation_nodular   
-178            regression_structures_absent   
-179       management_no further examination   
-180                  pigment_network_absent   
-181               diagnosis_vascular lesion   
-182                dots_and_globules_absent   
-183                  pigment_network_absent   
+79                        streaks_irregular   
+80              dots_and_globules_irregular   
+81                 pigment_network_atypical   
+82   diagnosis_melanoma (less than 0.76 mm)   
+83       regression_structures_combinations   
+84                   diagnosis_dermal nevus   
+85        management_no further examination   
+86   diagnosis_melanoma (less than 0.76 mm)   
+87                      management_excision   
+88                dots_and_globules_regular   
+89                  pigment_network_typical   
+90                 dots_and_globules_absent   
+91                     diagnosis_blue nevus   
+92                   pigment_network_absent   
+93                        elevation_nodular   
+94                           location_acral   
+95                   pigment_network_absent   
+96                        seven_point_score   
+97    diagnosis_melanoma (more than 1.5 mm)   
+98              dots_and_globules_irregular   
+99      diagnosis_melanoma (0.76 to 1.5 mm)   
+100     diagnosis_melanoma (0.76 to 1.5 mm)   
+101              vascular_structures_dotted   
+102               diagnosis_vascular lesion   
+103                dots_and_globules_absent   
+104                 pigment_network_typical   
+105                          elevation_flat   
+106           management_clinical follow up   
+107          level_of_diagnostic_difficulty   
+108                dots_and_globules_absent   
+109            pigmentation_diffuse regular   
+110                          streaks_absent   
+111       management_no further examination   
+112                       seven_point_score   
+113    vascular_structures_linear irregular   
+114                dots_and_globules_absent   
+115       management_no further examination   
+116                     management_excision   
+117      regression_structures_combinations   
+118      regression_structures_combinations   
+119             dots_and_globules_irregular   
+120                     pigmentation_absent   
+121                   diagnosis_clark nevus   
+122                  diagnosis_dermal nevus   
+123               vascular_structures_comma   
+124      regression_structures_combinations   
+125   vascular_structures_within regression   
+126                      location_head neck   
+127          diagnosis_basal cell carcinoma   
+128          diagnosis_basal cell carcinoma   
+129                  pigment_network_absent   
+130            regression_structures_absent   
+131           management_clinical follow up   
+132            diagnosis_melanoma (in situ)   
+133                       seven_point_score   
+134       management_no further examination   
+135                       diagnosis_lentigo   
+136              vascular_structures_absent   
+137                          elevation_flat   
+138           diagnosis_reed or spitz nevus   
+139                    location_lower limbs   
+140                     diagnosis_melanosis   
+141                         streaks_regular   
+142            diagnosis_melanoma (in situ)   
+143                     management_excision   
+144          diagnosis_seborrheic keratosis   
+145             vascular_structures_hairpin   
+146                       elevation_nodular   
+147     diagnosis_melanoma (0.76 to 1.5 mm)   
+148                  pigment_network_absent   
+149       management_no further examination   
+150                   diagnosis_clark nevus   
+151              vascular_structures_absent   
+152                     diagnosis_melanosis   
+153                      location_head neck   
+154               dots_and_globules_regular   
+155                          streaks_absent   
+156            pigmentation_diffuse regular   
+157                    diagnosis_blue nevus   
+158                  diagnosis_dermal nevus   
+159                       elevation_nodular   
+160       management_no further examination   
+161            regression_structures_absent   
+162               diagnosis_vascular lesion   
+163                  pigment_network_absent   
+164                  pigment_network_absent   
+165                dots_and_globules_absent   
 
                                      Column     Value  
 0               dots_and_globules_irregular  0.681834  
@@ -221,151 +203,133 @@
 33        management_no further examination  0.402071  
 34                 pigment_network_atypical  0.396423  
 35                      management_excision  0.396423  
-36                                 case_num  0.390052  
-37            diagnosis_reed or spitz nevus  0.390052  
-38              dots_and_globules_irregular  0.381519  
-39                        streaks_irregular  0.381519  
-40        regression_structures_white areas  0.381091  
-41    vascular_structures_within regression  0.381091  
-42                        streaks_irregular  0.377639  
-43   diagnosis_melanoma (less than 0.76 mm)  0.377639  
-44            management_clinical follow up  0.375321  
-45                dots_and_globules_regular  0.375321  
-46                    diagnosis_clark nevus  0.375110  
-47                dots_and_globules_regular  0.375110  
-48                        seven_point_score  0.362021  
-49      diagnosis_melanoma (0.76 to 1.5 mm)  0.362021  
-50                 pigment_network_atypical  0.353083  
-51             diagnosis_melanoma (in situ)  0.353083  
-52                                 case_num  0.349093  
-53                        seven_point_score  0.349093  
-54            management_clinical follow up  0.347414  
-55                  pigment_network_typical  0.347414  
-56                          streaks_regular  0.343092  
-57            diagnosis_reed or spitz nevus  0.343092  
-58     vascular_structures_linear irregular  0.341926  
-59    diagnosis_melanoma (more than 1.5 mm)  0.341926  
-60                           location_acral  0.340904  
-61                          streaks_regular  0.340904  
-62                        seven_point_score  0.338165  
-63               vascular_structures_dotted  0.338165  
-64           diagnosis_seborrheic keratosis  0.335008  
-65                                 case_num  0.335008  
-66        management_no further examination  0.320554  
-67                diagnosis_vascular lesion  0.320554  
-68                           streaks_absent  0.315462  
-69                  pigment_network_typical  0.315462  
-70   diagnosis_melanoma (less than 0.76 mm)  0.311753  
-71                 pigment_network_atypical  0.311753  
-72       regression_structures_combinations  0.311244  
-73                        seven_point_score  0.311244  
-74                           elevation_flat  0.309960  
-75            management_clinical follow up  0.309960  
-76   diagnosis_melanoma (less than 0.76 mm)  0.296187  
-77              dots_and_globules_irregular  0.296187  
-78                      management_excision  0.295553  
-79           pigmentation_diffuse irregular  0.295553  
-80        management_no further examination  0.292524  
-81                 diagnosis_dermatofibroma  0.292524  
-82                                 case_num  0.288522  
-83                diagnosis_vascular lesion  0.288522  
-84           pigmentation_diffuse irregular  0.287826  
-85              dots_and_globules_irregular  0.287826  
-86                        streaks_irregular  0.287424  
-87           pigmentation_diffuse irregular  0.287424  
-88                 pigment_network_atypical  0.280619  
-89              dots_and_globules_irregular  0.280619  
-90       regression_structures_combinations  0.276376  
-91   diagnosis_melanoma (less than 0.76 mm)  0.276376  
-92                   diagnosis_dermal nevus  0.275457  
-93        management_no further examination  0.275457  
-94                      management_excision  0.274412  
-95   diagnosis_melanoma (less than 0.76 mm)  0.274412  
-96                  pigment_network_typical  0.269622  
-97                dots_and_globules_regular  0.269622  
-98                     diagnosis_blue nevus  0.268679  
-99                 dots_and_globules_absent  0.268679  
-100                       elevation_nodular  0.268153  
-101                  pigment_network_absent  0.268153  
-102                          location_acral  0.265318  
-103                  pigment_network_absent  0.265318  
-104                       seven_point_score  0.263841  
-105   diagnosis_melanoma (more than 1.5 mm)  0.263841  
-106             dots_and_globules_irregular  0.263676  
-107     diagnosis_melanoma (0.76 to 1.5 mm)  0.263676  
-108     diagnosis_melanoma (0.76 to 1.5 mm)  0.263265  
-109              vascular_structures_dotted  0.263265  
-110               diagnosis_vascular lesion  0.260934  
-111                dots_and_globules_absent  0.260934  
-112                          elevation_flat  0.259555  
-113                 pigment_network_typical  0.259555  
-114           management_clinical follow up  0.255455  
-115          level_of_diagnostic_difficulty  0.255455  
-116                dots_and_globules_absent  0.252689  
-117            pigmentation_diffuse regular  0.252689  
-118                          streaks_absent  0.252071  
-119       management_no further examination  0.252071  
-120                       seven_point_score  0.251163  
-121    vascular_structures_linear irregular  0.251163  
-122                dots_and_globules_absent  0.251067  
-123       management_no further examination  0.251067  
-124      regression_structures_combinations  0.242746  
-125                     management_excision  0.242746  
-126             dots_and_globules_irregular  0.242057  
-127      regression_structures_combinations  0.242057  
-128                     pigmentation_absent  0.241794  
-129                   diagnosis_clark nevus  0.241794  
-130                  diagnosis_dermal nevus  0.233298  
-131               vascular_structures_comma  0.233298  
-132       management_no further examination  0.232924  
-133                                case_num  0.232924  
-134      regression_structures_combinations  0.231488  
-135   vascular_structures_within regression  0.231488  
-136          diagnosis_basal cell carcinoma  0.227124  
-137                      location_head neck  0.227124  
-138                  pigment_network_absent  0.226897  
-139          diagnosis_basal cell carcinoma  0.226897  
-140            regression_structures_absent  0.226191  
-141           management_clinical follow up  0.226191  
-142                                case_num  0.222431  
-143                       streaks_irregular  0.222431  
-144            diagnosis_melanoma (in situ)  0.221320  
-145                       seven_point_score  0.221320  
-146       management_no further examination  0.216766  
-147                       diagnosis_lentigo  0.216766  
-148              vascular_structures_absent  0.216520  
-149                          elevation_flat  0.216520  
-150           diagnosis_reed or spitz nevus  0.216221  
-151                    location_lower limbs  0.216221  
-152                                case_num  0.214929  
-153          pigmentation_diffuse irregular  0.214929  
-154                     diagnosis_melanosis  0.214007  
-155                         streaks_regular  0.214007  
-156                     management_excision  0.212961  
-157            diagnosis_melanoma (in situ)  0.212961  
-158  diagnosis_melanoma (less than 0.76 mm)  0.212913  
-159                                case_num  0.212913  
-160                                case_num  0.211958  
-161     diagnosis_melanoma (0.76 to 1.5 mm)  0.211958  
-162          diagnosis_seborrheic keratosis  0.211543  
-163             vascular_structures_hairpin  0.211543  
-164     diagnosis_melanoma (0.76 to 1.5 mm)  0.211133  
-165                       elevation_nodular  0.211133  
-166                  pigment_network_absent  0.210980  
-167       management_no further examination  0.210980  
-168              vascular_structures_absent  0.209070  
-169                   diagnosis_clark nevus  0.209070  
-170                     diagnosis_melanosis  0.207889  
-171                      location_head neck  0.207889  
-172               dots_and_globules_regular  0.207865  
-173                          streaks_absent  0.207865  
-174                    diagnosis_blue nevus  0.205315  
-175            pigmentation_diffuse regular  0.205315  
-176                       elevation_nodular  0.204084  
-177                  diagnosis_dermal nevus  0.204084  
-178       management_no further examination  0.201864  
-179            regression_structures_absent  0.201864  
-180               diagnosis_vascular lesion  0.200271  
-181                  pigment_network_absent  0.200271  
-182                  pigment_network_absent  0.200053  
-183                dots_and_globules_absent  0.200053  
+36              dots_and_globules_irregular  0.381519  
+37                        streaks_irregular  0.381519  
+38    vascular_structures_within regression  0.381091  
+39        regression_structures_white areas  0.381091  
+40   diagnosis_melanoma (less than 0.76 mm)  0.377639  
+41                        streaks_irregular  0.377639  
+42                dots_and_globules_regular  0.375321  
+43            management_clinical follow up  0.375321  
+44                dots_and_globules_regular  0.375110  
+45                    diagnosis_clark nevus  0.375110  
+46                        seven_point_score  0.362021  
+47      diagnosis_melanoma (0.76 to 1.5 mm)  0.362021  
+48             diagnosis_melanoma (in situ)  0.353083  
+49                 pigment_network_atypical  0.353083  
+50                  pigment_network_typical  0.347414  
+51            management_clinical follow up  0.347414  
+52            diagnosis_reed or spitz nevus  0.343092  
+53                          streaks_regular  0.343092  
+54    diagnosis_melanoma (more than 1.5 mm)  0.341926  
+55     vascular_structures_linear irregular  0.341926  
+56                          streaks_regular  0.340904  
+57                           location_acral  0.340904  
+58               vascular_structures_dotted  0.338165  
+59                        seven_point_score  0.338165  
+60        management_no further examination  0.320554  
+61                diagnosis_vascular lesion  0.320554  
+62                           streaks_absent  0.315462  
+63                  pigment_network_typical  0.315462  
+64   diagnosis_melanoma (less than 0.76 mm)  0.311753  
+65                 pigment_network_atypical  0.311753  
+66       regression_structures_combinations  0.311244  
+67                        seven_point_score  0.311244  
+68                           elevation_flat  0.309960  
+69            management_clinical follow up  0.309960  
+70   diagnosis_melanoma (less than 0.76 mm)  0.296187  
+71              dots_and_globules_irregular  0.296187  
+72                      management_excision  0.295553  
+73           pigmentation_diffuse irregular  0.295553  
+74                 diagnosis_dermatofibroma  0.292524  
+75        management_no further examination  0.292524  
+76           pigmentation_diffuse irregular  0.287826  
+77              dots_and_globules_irregular  0.287826  
+78                        streaks_irregular  0.287424  
+79           pigmentation_diffuse irregular  0.287424  
+80                 pigment_network_atypical  0.280619  
+81              dots_and_globules_irregular  0.280619  
+82       regression_structures_combinations  0.276376  
+83   diagnosis_melanoma (less than 0.76 mm)  0.276376  
+84        management_no further examination  0.275457  
+85                   diagnosis_dermal nevus  0.275457  
+86                      management_excision  0.274412  
+87   diagnosis_melanoma (less than 0.76 mm)  0.274412  
+88                  pigment_network_typical  0.269622  
+89                dots_and_globules_regular  0.269622  
+90                     diagnosis_blue nevus  0.268679  
+91                 dots_and_globules_absent  0.268679  
+92                        elevation_nodular  0.268153  
+93                   pigment_network_absent  0.268153  
+94                   pigment_network_absent  0.265318  
+95                           location_acral  0.265318  
+96    diagnosis_melanoma (more than 1.5 mm)  0.263841  
+97                        seven_point_score  0.263841  
+98      diagnosis_melanoma (0.76 to 1.5 mm)  0.263676  
+99              dots_and_globules_irregular  0.263676  
+100              vascular_structures_dotted  0.263265  
+101     diagnosis_melanoma (0.76 to 1.5 mm)  0.263265  
+102                dots_and_globules_absent  0.260934  
+103               diagnosis_vascular lesion  0.260934  
+104                          elevation_flat  0.259555  
+105                 pigment_network_typical  0.259555  
+106          level_of_diagnostic_difficulty  0.255455  
+107           management_clinical follow up  0.255455  
+108            pigmentation_diffuse regular  0.252689  
+109                dots_and_globules_absent  0.252689  
+110       management_no further examination  0.252071  
+111                          streaks_absent  0.252071  
+112    vascular_structures_linear irregular  0.251163  
+113                       seven_point_score  0.251163  
+114       management_no further examination  0.251067  
+115                dots_and_globules_absent  0.251067  
+116      regression_structures_combinations  0.242746  
+117                     management_excision  0.242746  
+118             dots_and_globules_irregular  0.242057  
+119      regression_structures_combinations  0.242057  
+120                   diagnosis_clark nevus  0.241794  
+121                     pigmentation_absent  0.241794  
+122               vascular_structures_comma  0.233298  
+123                  diagnosis_dermal nevus  0.233298  
+124   vascular_structures_within regression  0.231488  
+125      regression_structures_combinations  0.231488  
+126          diagnosis_basal cell carcinoma  0.227124  
+127                      location_head neck  0.227124  
+128                  pigment_network_absent  0.226897  
+129          diagnosis_basal cell carcinoma  0.226897  
+130           management_clinical follow up  0.226191  
+131            regression_structures_absent  0.226191  
+132                       seven_point_score  0.221320  
+133            diagnosis_melanoma (in situ)  0.221320  
+134                       diagnosis_lentigo  0.216766  
+135       management_no further examination  0.216766  
+136                          elevation_flat  0.216520  
+137              vascular_structures_absent  0.216520  
+138                    location_lower limbs  0.216221  
+139           diagnosis_reed or spitz nevus  0.216221  
+140                         streaks_regular  0.214007  
+141                     diagnosis_melanosis  0.214007  
+142                     management_excision  0.212961  
+143            diagnosis_melanoma (in situ)  0.212961  
+144             vascular_structures_hairpin  0.211543  
+145          diagnosis_seborrheic keratosis  0.211543  
+146     diagnosis_melanoma (0.76 to 1.5 mm)  0.211133  
+147                       elevation_nodular  0.211133  
+148       management_no further examination  0.210980  
+149                  pigment_network_absent  0.210980  
+150              vascular_structures_absent  0.209070  
+151                   diagnosis_clark nevus  0.209070  
+152                      location_head neck  0.207889  
+153                     diagnosis_melanosis  0.207889  
+154                          streaks_absent  0.207865  
+155               dots_and_globules_regular  0.207865  
+156                    diagnosis_blue nevus  0.205315  
+157            pigmentation_diffuse regular  0.205315  
+158                       elevation_nodular  0.204084  
+159                  diagnosis_dermal nevus  0.204084  
+160            regression_structures_absent  0.201864  
+161       management_no further examination  0.201864  
+162                  pigment_network_absent  0.200271  
+163               diagnosis_vascular lesion  0.200271  
+164                dots_and_globules_absent  0.200053  
+165                  pigment_network_absent  0.200053  
