@@ -24,7 +24,7 @@ a.  [01_EDA.ipynb](notebooks/01_EDA.ipynb) for Initial clean up and exploration,
 
 b.  [02_Baselines.ipynb](notebooks/02_Baselines.ipynb) for traditional ML models with tuning and visualizations
 
-c.  Image_Implementation.ipynb for CNN + Fusion implementation
+c.  [Image_Implementation.ipynb](notebooks/Image_Implementation.ipynb) for CNN + Fusion implementation
 
 Extras:
 
