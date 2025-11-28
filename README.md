@@ -58,7 +58,7 @@ b. [04_CNN_Sandbox_Images.ipynb](notebooks/04_CNN_Sandbox_Images.ipynb) and [05_
 - tqdm
 - warnings
 
-## 📌 Project Presentation
+##  Project Presentation
 **Skin_Lesion_Classification_FINAL_Presentation.pdf**  
 This file contains the final slides for the Derm7PT project.
 
